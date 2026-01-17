@@ -1,8 +1,8 @@
 # Python-Reference
 
 This Project tries to collect some basic and advanced knowledge about Python. From basic syntax, file i/o, it security, networking, GUI and rendering. Python is a awesome language and therefore this repo tries to collect most important knowledge about Python for reference during work and projects.<br>
-Of course this repo can't cover everything and the topic artificial intelligence (including plotting and stuff) is intentionally ignored, since I already have an [repo for AI](https://github.com/xXAI-botXx/AI) (also for [PyTorch](https://github.com/xXAI-botXx/PyTorch-Reference) and [TensorFlow](https://github.com/xXAI-botXx/TensorFlow-Reference)).<br>
-Also see [the helper repo](https://github.com/xXAI-botXx/Project-Helper) which is kinda the toplevel repo for such reference repos.
+Of course this repo can't cover everything and the topic artificial intelligence (including plotting and stuff) is intentionally ignored, since I already have an [repo for AI](https://github.com/M-106/AI) (also for [PyTorch](https://github.com/M-106/PyTorch-Reference) and [TensorFlow](https://github.com/M-106/TensorFlow-Reference)).<br>
+Also see [the helper repo](https://github.com/M-106/Project-Helper) which is kinda the toplevel repo for such reference repos.
 
 This repo consists of multiple notebooks which covers the given topics. The notebooks have the advantage that you can see my results and also provide textual information beside code.
 
@@ -11,7 +11,7 @@ This repo consists of multiple notebooks which covers the given topics. The note
 ---
 ### Installation
 
-Python can be installed through [the offical website](https://python.org), but I recommend installing and using anaconda, since it manages different Python versions much better. A little tutorial for anaconda can be found here: https://github.com/xXAI-botXx/Project-Helper#anaconda. Another way is to use Docker and installing and using python in a container (virtual environment), all important informations can be found here: https://github.com/xXAI-botXx/Docker.<br>
+Python can be installed through [the offical website](https://python.org), but I recommend installing and using anaconda, since it manages different Python versions much better. A little tutorial for anaconda can be found here: https://github.com/M-106/Project-Helper#anaconda. Another way is to use Docker and installing and using python in a container (virtual environment), all important informations can be found here: https://github.com/M-106/Docker.<br>
 
 Your python environment with anaconda just needs IPython and an ipykernel package through the usage of notebooks.
 
@@ -77,13 +77,13 @@ print(help(print))
     - **Games and Simulations**
         - [PyGame](./src/external_libs/games/pygame/pygame.ipynb)
         - [Rendering with OpenGL](./src/external_libs/rendering/moderngl.ipynb)
-        - [(External) WindForge Engine](https://github.com/xXAI-botXx/Wind_Forge)
+        - [(External) WindForge Engine](https://github.com/M-106/Wind_Forge)
     - *... -> are there important missing external library modules? (for sure there are much more)*
     - *user input control? (mouse/keyboard)*
     - *Ursina Engine?*
     - *Selenium?*
     - *PyAutoGUI?*
-    - > Hint: OpenCV/Numpy/Pandas/Matplotlib/Seaborn/SciPy/PyTorch/TensorFlow... are covered in the [AI repo](https://github.com/xXAI-botXx/AI), (and [PyTorch](https://github.com/xXAI-botXx/PyTorch-Reference), [TensorFlow](https://github.com/xXAI-botXx/TensorFlow-Reference))
+    - > Hint: OpenCV/Numpy/Pandas/Matplotlib/Seaborn/SciPy/PyTorch/TensorFlow... are covered in the [AI repo](https://github.com/M-106/AI), (and [PyTorch](https://github.com/M-106/PyTorch-Reference), [TensorFlow](https://github.com/M-106/TensorFlow-Reference))
 
 
 
